@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "leaflet-example"
+    }
+  },
+  "defaultProject": "leaflet-example",
+  "cli": {
+    "analytics": "28467288-72c1-4526-a43f-17152157210f"
+  }
 }
